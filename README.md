@@ -9,5 +9,8 @@ TESTING 5 Parte del ejercicio
 TESTING 6 Parte del ejercicio
 TESTING 7
 alvaro
+<<<<<<< HEAD
 Meraz
 nuñez
+=======
+>>>>>>> parent of 5916e76 (Modify readme)
