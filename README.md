@@ -9,15 +9,5 @@ TESTING 5 Parte del ejercicio
 TESTING 6 Parte del ejercicio
 TESTING 7
 alvaro
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-Meraz
-nuñez
-=======
->>>>>>> parent of 5916e76 (Modify readme)
-=======
->>>>>>> parent of 5916e76 (Modify readme)
-=======
-Meraz
->>>>>>> parent of 779f0b3 (Modify Read me)
+
+
